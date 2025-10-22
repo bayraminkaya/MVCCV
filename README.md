@@ -52,14 +52,14 @@ Bu projeyi geliştirirken;
 ## 📷 Ekran Görselleri
 
 
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20175550.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20201245.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205024.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205035.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205122.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205140.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205158.png)
-![ ](./Image/Ekran%20görüntüsü%202025-10-22%20205209.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20175550.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20201245.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205024.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205035.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205122.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205140.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205158.png)
+![image](./Image/Ekran%20görüntüsü%202025-10-22%20205209.png)
 
 ---
 
