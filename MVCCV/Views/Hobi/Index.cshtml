@@ -1,0 +1,24 @@
+﻿﻿@using MVCCV.Models.Entity
+@model List<TblHobilerim>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Hobilerim</h2>
+@foreach (var item in Model)
+{
+    <br />
+    <label>Hobi İsmi</label>
+    <textboxfor class="form-control">@item.Aciklama1</textboxfor>
+    <br />
+    <label>Hobi Açıklaması</label>
+    <textarea rows="5" class="form-control">@item.Aciklama2</textarea>
+    <br />
+    <a href="/Hobi/HobiGuncelle/@item.ID" class="btn btn-success">GÜNCELLE</a>
+    <a href="/Hobi/HobiSil/@item.ID" class="btn btn-danger">SİL</a>
+    <br />
+}
+<br />
+<a href="/Hobi/YeniHobi/" class="btn btn-dark">HOBİ EKLE</a>

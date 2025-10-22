@@ -1,0 +1,52 @@
+﻿@using MVCCV.Models.Entity
+@model List<TblYeteneklerim>
+<div class="resume-section-content">
+    <h2 class="mb-5">Yeteneklerim</h2>
+
+    <div class="subheading mb-3">Programlama Dilleri & Araçlar</div>
+    <ul class="fa-ul mb-4">
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-code"></i></span>
+            <strong>Programlama Dilleri:</strong> C#, Java, Python, JavaScript, SQL
+        </li>
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-cubes"></i></span>
+            <strong>Framework & Kütüphaneler:</strong> ASP.NET MVC, React, jQuery, HTML/CSS
+        </li>
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-database"></i></span>
+            <strong>Veritabanları:</strong> MS SQL Server, MySQL
+        </li>
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-cloud-upload-alt"></i></span>
+            <strong>Bulut & Dağıtım:</strong> Cloudflare R2, CDN Optimizasyonu, AWS (S3 uyumlu), Azure DevOps (TFS)
+        </li>
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-tools"></i></span>
+            <strong>Araçlar & Platformlar:</strong> Git, WordPress, Photoshop, XenForo
+        </li>
+
+        <li class="mb-2">
+            <span class="fa-li"><i class="fas fa-shield-alt"></i></span>
+            <strong>Uygulama Pratikleri:</strong> RESTful API Entegrasyonu, CI/CD Süreçleri, Güvenli Kodlama
+        </li>
+
+    </ul>
+
+    <div class="subheading mb-3">İş Akışı ve Geliştirme Yaklaşımları</div>
+    <ul class="fa-ul mb-0">
+        @foreach (var x in Model)
+        {
+            <li class="mb-2">
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                @x.Yetenek
+            </li>
+        }
+    </ul>
+</div>
+

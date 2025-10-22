@@ -1,0 +1,15 @@
+﻿@using MVCCV.Models.Entity
+@model List<TblHobilerim>
+
+<div class="resume-section-content">
+    <h2 class="mb-5">İlgi Alanlarım</h2>
+    <ul class="fa-ul mb-0">
+        @foreach (var item in Model)
+        {
+            <li class="mb-2">
+                <span class="fa-li"><i class="fas fa-star"></i></span>
+                @item.Aciklama1
+            </li>
+        }
+    </ul>
+</div>

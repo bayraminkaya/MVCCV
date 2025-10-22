@@ -1,0 +1,18 @@
+﻿﻿@model MVCCV.Models.Entity.TblHobilerim
+@{
+    ViewBag.Title = "YeniHobi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Hobi Ekleme Sayfası</h2>
+<br />
+<form method="post">
+    @Html.Label("Hobi Adı")
+    @Html.TextBoxFor(x => x.Aciklama1, new { @class = "form-control" })
+    <br />
+    @Html.Label("Hobi Açıklaması")
+    @Html.TextBoxFor(x => x.Aciklama2, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">HOBİ EKLE</button>
+</form>
