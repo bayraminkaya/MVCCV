@@ -52,14 +52,14 @@ Bu projeyi geliştirirken;
 ## 📷 Ekran Görselleri
 
 
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20175550.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20201245.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205024.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205035.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205122.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205140.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205158.png)
-![image](./Image/Ekran%20görüntüsü%202025-10-22%20205209.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205010.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205024.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205035.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205122.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205140.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205158.png)
+![image](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-22%20205209.png)
+![image]([./Image/Ekran%20görüntüsü%202025-10-22%20205209.png](https://github.com/bayraminkaya/MVCCV/blob/master/MVCCV/Image/UC-fda913de-8f92-4785-b23a-cc45aba7636d.jpg))
 
 ---
 
